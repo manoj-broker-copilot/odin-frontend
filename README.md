@@ -19,6 +19,13 @@ Currently, two official plugins are available:
 ├── package.json
 └── README.md
 
+## Routing
+
+This project includes three types of routes:
+
+1. **Public Route**: A route that does not require authentication. 
+2. **Protected Route**: A route that requires authentication to access.
+3. **Random Page**: A page that can be imported directly into the index route.
 
 ## Expanding the ESLint configuration
 
