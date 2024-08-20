@@ -19,6 +19,10 @@ Currently, two official plugins are available:
 ├── package.json
 └── README.md
 
+## UI Framework
+
+This project uses the [Ant Design](https://ant.design/) UI framework for building the user interface.
+
 ## Routing
 
 This project includes three types of routes:
